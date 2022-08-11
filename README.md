@@ -1,4 +1,6 @@
-# TestApp
+# webComponentApp
+
+Editable List custom web component used with together in this angular project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
